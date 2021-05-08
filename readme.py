@@ -17,5 +17,5 @@ wallpapers_list = sorted(list(filter(re.compile('[0-9]{4}\.(jpg|png|jpeg)').matc
 
 # Generate wallpaper previews in README.md
 for name in wallpapers_list:
-    f.write(f'<p font-size="1.5em" align="center"><img width="50%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/{name}" alt="{name[:4]}"><br>{name[:4]}</p>\n')
+    f.write(f'<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/{name}" alt="{name[:4]}"><br>{name[:4]}</p>\n')
 f.close()
