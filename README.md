@@ -57,8 +57,8 @@
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0053.jpg" alt="0053"><br>0053</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0054.jpg" alt="0054"><br>0054</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0055.jpg" alt="0055"><br>0055</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0056.png" alt="0056"><br>0056</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0057.png" alt="0057"><br>0057</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0056.jpg" alt="0056"><br>0056</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0057.jpg" alt="0057"><br>0057</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0058.png" alt="0058"><br>0058</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0059.png" alt="0059"><br>0059</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0060.jpg" alt="0060"><br>0060</p>
@@ -76,8 +76,3 @@
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0072.jpg" alt="0072"><br>0072</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0073.png" alt="0073"><br>0073</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0074.jpg" alt="0074"><br>0074</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0075.jpg" alt="0075"><br>0075</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0076.jpg" alt="0076"><br>0076</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0077.jpg" alt="0077"><br>0077</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0078.jpg" alt="0078"><br>0078</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/0079.jpg" alt="0079"><br>0079</p>
