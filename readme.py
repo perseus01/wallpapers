@@ -5,8 +5,9 @@ import re
 
 head = """# Wallpapers
 
-### Click on a preview to download the wallpaper.
+The following wallpapers are fetched from various sources across the internet. I do not claim ownership of any images in this repository.
 
+### Click on a wallpaper preview to download the wallpaper
 ### Preview:
 \n
 """
