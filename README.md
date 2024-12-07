@@ -60,7 +60,7 @@ The following wallpapers are fetched from various sources across the internet. I
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0052.jpg" alt="0052"><br>0052</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0053.jpg" alt="0053"><br>0053</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0054.jpg" alt="0054"><br>0054</p>
-<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0055.jpg" alt="0055"><br>0055</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0055.png" alt="0055"><br>0055</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0056.jpg" alt="0056"><br>0056</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0057.jpg" alt="0057"><br>0057</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0058.png" alt="0058"><br>0058</p>
@@ -78,3 +78,9 @@ The following wallpapers are fetched from various sources across the internet. I
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0070.png" alt="0070"><br>0070</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0071.jpg" alt="0071"><br>0071</p>
 <p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0072.png" alt="0072"><br>0072</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0073.png" alt="0073"><br>0073</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0074.jpg" alt="0074"><br>0074</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0075.jpg" alt="0075"><br>0075</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0076.png" alt="0076"><br>0076</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0077.png" alt="0077"><br>0077</p>
+<p font-size="1.5em" align="center"><img width="75%" src="https://raw.githubusercontent.com/perseus01/wallpapers/main/wps/0078.png" alt="0078"><br>0078</p>
