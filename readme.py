@@ -19,7 +19,7 @@ f.write(head)
 cur_dir = os.getcwd()
 files_list = os.listdir(f"{cur_dir}/wps")
 wallpapers_list = sorted(
-    list(filter(re.compile("[0-9]{4}\.(jpg|png|jpeg)").match, files_list))
+    list(filter(re.compile(r"[0-9]{4}\.(jpg|png|jpeg)").match, files_list))
 )
 
 # Generate wallpaper previews in README.md
